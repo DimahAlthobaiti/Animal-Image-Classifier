@@ -32,7 +32,7 @@ Follow these steps to run the model and classify an image:
 ### 1. Install Required Libraries
 
 Make sure to install **TensorFlow 2.12.1** before anything else:
-<pre> ```bash !pip install tensorflow==2.12.1 ``` </pre>
+<pre> bash !pip install tensorflow==2.12.1 </pre>
 
 ### 2. Load the Model and Labels
 Make sure these two files exist:
@@ -72,7 +72,7 @@ The confidence score (e.g., 0.999 means 99.9% confident)
 ![CodeSample3](https://github.com/user-attachments/assets/fa287b74-7fa2-4639-a288-f68a8a6ff977)
 ![CodeSample2](https://github.com/user-attachments/assets/b88bf03d-3747-4cdc-a47e-b2c9e00ed810)
 
-##This is results from using Teachable machine 
+## Results from using Teachable machine 
 
 ![SecSampleDone](https://github.com/user-attachments/assets/bb4631e9-c680-4eda-b53c-44a23b2d783c)
 ![FirstSampleDone](https://github.com/user-attachments/assets/1512ee3f-9860-4b9b-afc9-fb7e3f50fc3a)
