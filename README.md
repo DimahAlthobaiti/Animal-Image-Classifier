@@ -32,7 +32,7 @@ Follow these steps to run the model and classify an image:
 ### 1. Install Required Libraries
 
 Make sure to install **TensorFlow 2.12.1** before anything else:
-<pre> bash !pip install tensorflow==2.12.1 </pre>
+<pre> !pip install tensorflow==2.12.1 </pre>
 
 ### 2. Load the Model and Labels
 Make sure these two files exist:
